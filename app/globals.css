@@ -151,3 +151,19 @@ a {
   background-color: gray;
   color: white;
 }
+.home{
+  width: 100%;
+  float: left;
+  height: 100vh;
+  color: black;
+  background-color: rgb(217, 216, 215);
+  text-align: center;
+}
+.text{
+  font-size: 20px;
+  margin-top: 20px;
+}
+.h1{
+  font-size: 40px;
+  margin-top: 30px;
+}
